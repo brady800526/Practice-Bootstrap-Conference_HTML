@@ -6,7 +6,7 @@ The code in this repo follows the teacher in Treehouse. By using BootStrap frame
 
 ## Bootstrap
 
-Bootstrap is a web framework that can rapidly build a website without any JavaScript code. The benefit of this framework is, if you are selling pure web design, using it to build super fast because you can use Bootstrap CDN help you accomplish JavaScript function. 
+Bootstrap is a web framework that can rapidly build a website without any JavaScript code. The benefit of this framework is, if you are not selling pure web design, using it to build website is super fast because you can use Bootstrap CDN help you accomplish JavaScript function. 
 On the contrary, it might look very similar with other website also using this. Using custom.css yourself to redisign or override the css attribute may help you out.
 
 ## Usage
