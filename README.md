@@ -74,7 +74,7 @@ This is the [starter template](https://getbootstrap.com/docs/4.0/getting-started
 ------------------------------------------------------------------------
 
 <figure style="text-align: center;">
-    <img src="http://i68.tinypic.com/2dtx0gh.png" alt="Navs" style="width: 100%; height: 100%"/>
+    <img src="README_img/Navs.png" alt="Navs" style="width: 100%; height: 100%"/>
 </figure>
 
 ```
@@ -98,7 +98,7 @@ This is the [starter template](https://getbootstrap.com/docs/4.0/getting-started
 ------------------------------------------------------------------------
 
 <figure style="text-align: center;">
-    <img src="http://i65.tinypic.com/k2xpus.png" alt="Nav bar" style="width: 100%; height: 100%"/>
+    <img src="README_img/Navbar.png" alt="Navbar" style="width: 100%; height: 100%"/>
 </figure>
 
 ```
@@ -115,7 +115,7 @@ This is the [starter template](https://getbootstrap.com/docs/4.0/getting-started
 ------------------------------------------------------------------------
 
 <figure style="text-align: center;">
-    <img src="http://i63.tinypic.com/2vvuixt.png" alt="Jumbotron" style="width: 100%; height: 100%"/>
+    <img src="README_img/Jumbotron.png" alt="Jumbotron" style="width: 100%; height: 100%"/>
 </figure>
 
 ```
@@ -134,7 +134,7 @@ This is the [starter template](https://getbootstrap.com/docs/4.0/getting-started
 ------------------------------------------------------------------------
 
 <figure style="text-align: center;">
-    <img src="http://i66.tinypic.com/14t5y0h.png" alt="Button group" style="width: 100%; height: 100%"/>
+    <img src="README_img/ButtonGroup.png" alt="Button group" style="width: 100%; height: 100%"/>
 </figure>
 
 ```
@@ -149,7 +149,7 @@ This is the [starter template](https://getbootstrap.com/docs/4.0/getting-started
 ------------------------------------------------------------------------
 
 <figure style="text-align: center;">
-    <img src="http://i66.tinypic.com/11ay045.png" alt="Cards" style="width: 100%; height: 100%"/>
+    <img src="README_img/Cards.png" alt="Cards" style="width: 100%; height: 100%"/>
 </figure>
 
 ```
@@ -165,7 +165,7 @@ This is the [starter template](https://getbootstrap.com/docs/4.0/getting-started
 ------------------------------------------------------------------------
 
 <figure style="text-align: center;">
-    <img src="http://i65.tinypic.com/fuqb8z.png" alt="RList group" style="width: 100%; height: 100%"/>
+    <img src="README_img/ListGroup.png" alt="List group" style="width: 100%; height: 100%"/>
 </figure>
 
 ```
@@ -189,7 +189,7 @@ This is the [starter template](https://getbootstrap.com/docs/4.0/getting-started
 ------------------------------------------------------------------------
 
 <figure style="text-align: center;">
-    <img src="http://i68.tinypic.com/974c4k.png" alt="Scrollspy" style="width: 100%; height: 100%"/>
+    <img src="README_img/Scrollspy.png" alt="Scrollspy" style="width: 100%; height: 100%"/>
 </figure>
 
 ```
@@ -231,7 +231,7 @@ This is the [starter template](https://getbootstrap.com/docs/4.0/getting-started
 ------------------------------------------------------------------------
 
 <figure style="text-align: center;">
-    <img src="http://i65.tinypic.com/jg0dx2.png" alt="Dropdowns" style="width: 100%; height: 100%"/>
+    <img src="README_img/Dropdowns.png" alt="Dropdowns" style="width: 100%; height: 100%"/>
 </figure>
 
 ```
@@ -251,7 +251,7 @@ This is the [starter template](https://getbootstrap.com/docs/4.0/getting-started
 ------------------------------------------------------------------------
 
 <figure style="text-align: center;">
-    <img src="http://i68.tinypic.com/27x17ax.png" alt="Modal" style="width: 100%; height: 100%"/>
+    <img src="README_img/Modal.png" alt="Modal" style="width: 100%; height: 100%"/>
 </figure>
 
 ```
@@ -280,7 +280,7 @@ This is the [starter template](https://getbootstrap.com/docs/4.0/getting-started
 ------------------------------------------------------------------------
 
 <figure style="text-align: center;">
-    <img src="http://i66.tinypic.com/20seyps.png" alt="Forms" style="width: 100%; height: 100%"/>
+    <img src="README_img/Forms.png" alt="Forms" style="width: 100%; height: 100%"/>
 </figure>
 
 ```
