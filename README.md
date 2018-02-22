@@ -18,8 +18,8 @@ Download the repo, under the directory run:
 You will see the landing page.
 
 <figure style="text-align: center;">
-    <img src="http://i66.tinypic.com/3444nk1.png" alt="Landing Page" style="width: 49.5%; height: 49.5%"/>
-    <img src="http://i65.tinypic.com/2ic1tvt.png" alt="Landing Page" style="width: 49.5%; height: 49.5%"/>
+    <img src="README_img/LandingPage1.png" alt="Landing Page" style="width: 49.5%; height: 49.5%"/>
+    <img src="README_img/LandingPage2.png" alt="Landing Page" style="width: 49.5%; height: 49.5%"/>
     <figcaption style="display: block;">Landing Page</figcaption>
 </figure>
 
@@ -28,7 +28,7 @@ This website is assumed to be used for JavaScript conference, the components of 
 After you click the Register Now button, register from will show up to ask you fill in your personal info.
 
 <figure style="text-align: center;">
-    <img src="http://i66.tinypic.com/jk9l5w.png" alt="Register Form" style="width: 40%; height: 40%"/>
+    <img src="README_img/RegisterForm.png" alt="Register Form" style="width: 40%; height: 40%"/>
     <figcaption style="display: block;">Register Form</figcaption>
 </figure>
 
